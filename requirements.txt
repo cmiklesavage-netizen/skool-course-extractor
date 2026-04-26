@@ -1,0 +1,9 @@
+playwright==1.44.*
+youtube-transcript-api==0.6.*
+openai-whisper==20231117
+openai==1.30.*
+google-api-python-client==2.132.*
+google-auth-httplib2==0.2.*
+google-auth-oauthlib==1.2.*
+python-dotenv==1.0.*
+yt-dlp==2024.*
